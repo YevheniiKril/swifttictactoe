@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A7C159C-3879-4250-86D0-61282FD2CFF1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F759AC8-1FBA-4F0A-A6CE-91D7C4DEEFEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalProjectSwift/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3F759AC8-1FBA-4F0A-A6CE-91D7C4DEEFEB - 9a0107df40fbaf33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalProjectSwift.ViewController.cell0.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "FinalProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirillbarsukov/Documents/SummerSem/Swift/FinalProjectSwift/FinalProjectSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "3F759AC8-1FBA-4F0A-A6CE-91D7C4DEEFEB - 22dbceb7db713fc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalProjectSwift.ViewController.cell0.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "FinalProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirillbarsukov/Documents/SummerSem/Swift/FinalProjectSwift/FinalProjectSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "3F759AC8-1FBA-4F0A-A6CE-91D7C4DEEFEB - 3d21141de3133b36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalProjectSwift.ViewController.cell0.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "FinalProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirillbarsukov/Documents/SummerSem/Swift/FinalProjectSwift/FinalProjectSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "3F759AC8-1FBA-4F0A-A6CE-91D7C4DEEFEB - 30224357ba3a1a8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalProjectSwift.ViewController.cell0.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FinalProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirillbarsukov/Documents/SummerSem/Swift/FinalProjectSwift/FinalProjectSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "3F759AC8-1FBA-4F0A-A6CE-91D7C4DEEFEB - 10f23ea058eee82f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalProjectSwift.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FinalProjectSwift.ViewController"
+                  moduleName = "FinalProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirillbarsukov/Documents/SummerSem/Swift/FinalProjectSwift/FinalProjectSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "579">
+               </Location>
+               <Location
+                  uuid = "3F759AC8-1FBA-4F0A-A6CE-91D7C4DEEFEB - 1fc71b30703cf80e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalProjectSwift.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FinalProjectSwift.ViewController&gt;"
+                  moduleName = "FinalProjectSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirillbarsukov/Documents/SummerSem/Swift/FinalProjectSwift/FinalProjectSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "520">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
